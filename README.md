@@ -1,2 +1,2 @@
-# AI-essentials-FRAMS
-A facial recognition access management system.
+# AI-essentials-CryptoTracker
+A cryptocurrency price realtime tracker.
