@@ -1,5 +1,6 @@
 # AI-essentials-CryptoTracker
 A cryptocurrency price realtime tracker.
+
 To run this program, you need to have python installed.
 Install the "matplotlib" and "requests" libraries.
 To install, open command prompt and type:
